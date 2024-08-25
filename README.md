@@ -8,8 +8,8 @@ Specifically, in this example, the preference is to pick full totes from locatio
 The project aims to run the picking service securely in the Azure Cloud environment.
 
 ## Process Flow
-![Screenshot from 2024-08-23 11-42-20](https://github.com/user-attachments/assets/afaf7559-0a36-42fa-bd80-182c874176e0)
-
+![Screenshot from 2024-08-23 11-42-20](https://github.com/user-attachments/assets/423e7bc7-30fb-43d2-a5f8-e8092981dd28)
 
 ## Azure Setup
-![Screenshot from 2024-08-23 12-09-59](https://github.com/user-attachments/assets/eee73f0f-620a-4704-a53d-33efee1ce170)
+![Screenshot from 2024-08-23 12-09-59](https://github.com/user-attachments/assets/10149319-e9c3-4989-bbdd-c9bf66d853db)
+
